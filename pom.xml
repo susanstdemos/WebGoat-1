@@ -132,7 +132,7 @@
         <commons-io.version>2.4</commons-io.version>
         <commons-lang3.version>3.4</commons-lang3.version>
         <coveralls-maven-plugin.version>4.0.0</coveralls-maven-plugin.version>
-        <gatling.version>2.2.5</gatling.version>
+        <gatling.version>3.6.0</gatling.version>
         <gatling-plugin.version>2.2.4</gatling-plugin.version>
         <guava.version>18.0</guava.version>
         <h2.version>1.4.190</h2.version>
